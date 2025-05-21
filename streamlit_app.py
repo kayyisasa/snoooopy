@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("snoopy ੯‧̀͡⬮")
+st.title("snoopy੯‧̀͡⬮")
 st.write(
     "i love snoopy"
 )
